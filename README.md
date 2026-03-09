@@ -85,4 +85,23 @@ To reproduce the active learning results (including Breaking Ties strategy):
 ```
 python "code/supervised/train_active_learning.py"
 ```
+## Paper
 
+Latest version available on [arXiv](https://arxiv.org/abs/2603.02944)
+
+If you use this dataset to support your research and publish a paper, we encourage you to cite the following paper in your publication:
+
+```
+@article{sutoyo2026reducing,
+  title={Reducing Labeling Effort in Architecture Technical Debt Detection through Active Learning and Explainable AI},
+  author={Sutoyo, Edi and Avgeriou, Paris and Capiluppi, Andrea},
+  journal={arXiv preprint arXiv:2603.02944},
+  year={2026}
+}
+```
+
+
+## Contact
+
+- Please use the following email addresses if you have questions:
+    - :email: <e.sutoyo@rug.nl>
